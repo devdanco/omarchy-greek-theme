@@ -27,7 +27,7 @@ Includes 4 high-resolution wallpapers:
 ## Install
 
 ```bash
-omarchy theme install https://github.com/your-username/omarchy-greek-theme.git
+omarchy theme install https://github.com/devdanco/omarchy-greek-theme.git
 ```
 
 ## License
