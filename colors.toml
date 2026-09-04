@@ -1,0 +1,34 @@
+mode = "dark"
+
+# Greek theme — inspired by the Aegean Sea, white marble, golden sun,
+# olive groves, bougainvillea, and the blue of the Greek flag.
+
+accent = "#1d6fa4"          # Hellenic blue (Greek flag)
+selection = "#1a3a5c"       # Deep sea blue
+muted = "#4a6580"           # Faded Aegean
+
+background = "#0d1b2a"      # Midnight Aegean sea
+dark_background = "#080f18" # Deep ocean
+darker_background = "#040c14"
+lighter_background = "#142438"
+
+foreground = "#e8e4d9"      # White marble
+dark_foreground = "#8a9bae"
+light_foreground = "#c8c4b8"
+bright_foreground = "#f0ece0"
+
+red = "#c0513a"             # Terracotta (ancient pottery)
+yellow = "#e8b84b"          # Aegean sun gold
+orange = "#d4813a"          # Sunset over Santorini
+green = "#6b7c4a"           # Olive tree
+cyan = "#4db8c0"            # Crystal Aegean water
+blue = "#1d6fa4"            # Hellenic blue
+magenta = "#c0537a"         # Bougainvillea pink
+brown = "#8b6347"           # Doric column stone
+
+bright_red = "#d4614a"
+bright_yellow = "#f5c85c"
+bright_green = "#7d9058"
+bright_cyan = "#5ecbd4"
+bright_blue = "#3d8fc4"
+bright_magenta = "#d4638a"
