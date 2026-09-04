@@ -2,10 +2,6 @@
 
 A dark Omarchy theme inspired by Greece — the Aegean Sea, white marble, golden sun, olive groves, bougainvillea, and the blue of the Greek flag.
 
-## Preview
-
-![Greek Theme Preview](preview.png)
-
 ## Colors
 
 | Role | Color | Inspiration |
