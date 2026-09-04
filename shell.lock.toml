@@ -1,6 +1,6 @@
-text             = "#e8e4d9"
-placeholder      = "#8a9bae"
-text-error       = "#c0513a"
-border           = "#1d6fa4"
-border-active    = "#4db8c0"
-border-error     = "#c0513a"
+text             = "#e8e4d9"   # White marble
+placeholder      = "#4a6580"   # Faded Aegean
+text-error       = "#c0513a"   # Terracotta
+border           = "#1d6fa4"   # Hellenic blue
+border-active    = "#4db8c0"   # Crystal Aegean water (typing / authenticating)
+border-error     = "#c0513a"   # Terracotta (wrong password)

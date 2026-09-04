@@ -1,0 +1,95 @@
+# ════════════════════════════════════════════════════════════
+# btop — GREEK THEME
+# Aegean Sea · White Marble · Hellenic Blue · Golden Sun
+# ════════════════════════════════════════════════════════════
+
+# Main background - Midnight Aegean sea
+theme[main_bg]="#0d1b2a"
+
+# Main text - White marble (high contrast)
+theme[main_fg]="#e8e4d9"
+
+# Title color - Hellenic blue for emphasis
+theme[title]="#4db8c0"
+
+# Highlight/keyboard shortcuts - Aegean sun gold
+theme[hi_fg]="#e8b84b"
+
+# Selected item - Deep sea blue with marble text
+theme[selected_bg]="#1a3a5c"
+theme[selected_fg]="#e8e4d9"
+
+# Inactive text - Faded Aegean
+theme[inactive_fg]="#4a6580"
+
+# Process misc - Light marble
+theme[proc_misc]="#c8c4b8"
+
+# Box outlines - Greek palette colors
+theme[cpu_box]="#1d6fa4"     # Hellenic blue
+theme[mem_box]="#6b7c4a"     # Olive tree
+theme[net_box]="#4db8c0"     # Crystal Aegean water
+theme[proc_box]="#c0537a"    # Bougainvillea pink
+
+# Divider lines - Deep sea
+theme[div_line]="#142438"
+
+# Temperature graph - Cool to Hot (Olive → Gold → Terracotta)
+theme[temp_start]="#6b7c4a"
+theme[temp_mid]="#e8b84b"
+theme[temp_end]="#c0513a"
+
+# CPU graph - Aegean gradient (Cyan → Hellenic blue → Bougainvillea)
+theme[cpu_start]="#4db8c0"
+theme[cpu_mid]="#1d6fa4"
+theme[cpu_end]="#c0537a"
+
+# Memory graph - Marble to Aegean (Marble → Hellenic blue → Cyan)
+theme[mem_start]="#e8e4d9"
+theme[mem_mid]="#1d6fa4"
+theme[mem_end]="#4db8c0"
+
+# Memory free
+theme[free_start]="#c0537a"
+theme[free_mid]="#1d6fa4"
+theme[free_end]="#4db8c0"
+
+# Memory cached
+theme[cached_start]="#6b7c4a"
+theme[cached_mid]="#4db8c0"
+theme[cached_end]="#1d6fa4"
+
+# Memory available
+theme[available_start]="#e8b84b"
+theme[available_mid]="#d4813a"
+theme[available_end]="#c0513a"
+
+# Memory used
+theme[used_start]="#6b7c4a"
+theme[used_mid]="#4db8c0"
+theme[used_end]="#1d6fa4"
+
+# Network Download - Fast (Gold → Aegean water)
+theme[download_start]="#e8b84b"
+theme[download_mid]="#4db8c0"
+theme[download_end]="#1d6fa4"
+
+# Network Upload - Bougainvillea → Terracotta
+theme[upload_start]="#c0537a"
+theme[upload_mid]="#d4813a"
+theme[upload_end]="#c0513a"
+
+# Process colors - Deep sea → Marble → Hellenic blue
+theme[process_start]="#0d1b2a"
+theme[process_mid]="#e8e4d9"
+theme[process_end]="#1d6fa4"
+
+# Graph gradients - Aegean depth to surface
+theme[gradient_color_0]="#0d1b2a"
+theme[gradient_color_1]="#142438"
+theme[gradient_color_2]="#1a3a5c"
+theme[gradient_color_3]="#4a6580"
+theme[gradient_color_4]="#8a9bae"
+theme[gradient_color_5]="#e8e4d9"
+theme[gradient_color_6]="#c8c4b8"
+theme[gradient_color_7]="#f0ece0"

@@ -1,0 +1,82 @@
+# Greek theme shell surface overrides
+# Inspired by the Aegean Sea, white marble, golden sun, olive groves,
+# bougainvillea, and the blue of the Greek flag.
+
+[bar]
+background       = "#0d1b2a"   # Midnight Aegean sea
+background-alpha = 1.0
+text             = "#e8e4d9"   # White marble
+# Modules calling attention (recording, voxtype, alerts, updates)
+active           = "#c0513a"   # Terracotta / ancient pottery
+
+[hyprland]
+active-border            = "#1d6fa4"   # Hellenic blue
+active-border-foreground = "#e8e4d9"   # White marble
+
+[notifications]
+background       = "#0d1b2a"   # Midnight Aegean
+background-alpha = 1.0
+text             = "#e8e4d9"   # White marble
+border           = "#1d6fa4"   # Hellenic blue
+border-alpha     = 1.0
+countdown        = "#4db8c0"   # Crystal Aegean water
+
+[launcher]
+background                = "#080f18"   # Deep ocean
+background-alpha          = 0.97
+text                      = "#e8e4d9"   # White marble
+border                    = "#1d6fa4"   # Hellenic blue
+border-alpha              = 1.0
+scrim                     = "#040c14"   # Darkest ocean
+scrim-alpha               = 0.6
+selected-background       = "#1d6fa4"   # Hellenic blue
+selected-background-alpha = 0.18
+selected-text             = "#e8e4d9"   # White marble
+selected-border           = "#4db8c0"   # Aegean water
+selected-border-alpha     = 0.5
+
+[menu]
+background                = "#080f18"   # Deep ocean
+background-alpha          = 1.0
+text                      = "#e8e4d9"   # White marble
+border                    = "#1d6fa4"   # Hellenic blue
+border-alpha              = 1.0
+scrim                     = "#040c14"   # Darkest ocean
+scrim-alpha               = 0.6
+selected-background       = "#1d6fa4"   # Hellenic blue
+selected-background-alpha = 0.18
+selected-text             = "#e8e4d9"   # White marble
+selected-border           = "#4db8c0"   # Aegean water
+selected-border-alpha     = 0.5
+
+[popups]
+background       = "#080f18"   # Deep ocean
+background-alpha = 1.0
+text             = "#e8e4d9"   # White marble
+border           = "#1d6fa4"   # Hellenic blue
+border-alpha     = 1.0
+
+[polkit]
+background       = "#0d1b2a"   # Midnight Aegean
+background-alpha = 1.0
+text             = "#e8e4d9"   # White marble
+text-error       = "#c0513a"   # Terracotta
+border           = "#1d6fa4"   # Hellenic blue
+border-error     = "#c0513a"   # Terracotta
+border-alpha     = 1.0
+scrim            = "#040c14"
+scrim-alpha      = 0.6
+accent           = "#4db8c0"   # Crystal Aegean water
+
+[lock]
+background       = "#0d1b2a"   # Midnight Aegean
+background-alpha = 0.85
+text             = "#e8e4d9"   # White marble
+placeholder      = "#4a6580"   # Faded Aegean
+text-error       = "#c0513a"   # Terracotta
+border           = "#1d6fa4"   # Hellenic blue
+border-active    = "#4db8c0"   # Crystal Aegean water (typing)
+border-error     = "#c0513a"   # Terracotta (wrong password)
+border-alpha     = 1.0
+selection        = "#1d6fa4"   # Hellenic blue
+selection-alpha  = 0.45
